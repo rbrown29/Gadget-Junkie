@@ -25,7 +25,7 @@ const CartButton = () => {
           onClick={() => {
             clearCart()
             localStorage.removeItem('user')
-            logout({ returnTo: process.env.REACT_APP_AUTH_REDIRECT_URL })
+            logout({ returnTo: window.location.origin })
           }}
         >
           Logout <FaUserMinus />

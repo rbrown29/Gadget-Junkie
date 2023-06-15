@@ -2,7 +2,7 @@
 
 ## Description
 
-Gadget Junkie is a simple e-commerce website built with React. It is a responsive website that can be viewed on any device. It has a cart functionality that allows users to add and remove items from the cart. It also has a checkout functionality that allows users to enter their shipping address and payment details and transactions through stripe. It allows users to login through Auth0.
+Gadget Junkie is a simple e-commerce website built with React. It is a responsive website that can be viewed on any device. It has a cart functionality that allows users to add and remove items from the cart. It also has a checkout functionality that allows users to enter their shipping address and payment details and transactions through stripe. It allows users to login through Auth0. When entering payment information, please use the following test credit card number: 4242 4242 4242 4242. The Frontend is deployed on Netlify.
 
 
 ## Live Demo

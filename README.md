@@ -25,6 +25,42 @@ Gadget Junkie is a simple e-commerce website built with React. It is a responsiv
 
 
 ```
+## Installation
+
+1. Clone the repository to your local machine:
+
+```
+git clone
+
+```
+
+2. Change directory to the cloned repository:
+
+```
+
+cd E-commerce-frontend
+
+```
+
+3. Install all the dependencies:
+
+```
+
+npm install
+
+```
+
+4. Start the application:
+
+```
+
+npm start or npm run dev
+
+```
+
+5. Open your browser and visit http://localhost:3000/ or http://localhost:8888/ to see the application in action.
+
+```
 
 
 
